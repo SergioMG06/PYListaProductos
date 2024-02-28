@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="Pulsador">Button</string>
+    <string-array name="productos">
+        <item>Productos Liquidos</item>
+        <item>Productos Agricolas</item>
+        <item>Productos Solidos</item>
+        <item>Otros</item>
+    </string-array>
+        
+</resources>
